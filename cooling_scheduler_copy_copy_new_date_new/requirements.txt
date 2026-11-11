@@ -1,0 +1,10 @@
+# cooling_scheduler_copy_copy_new_date_new 第三方依赖
+# （仅列出项目源码中实际 import 的库，不含标准库，不锁版本号）
+# 生成环境核对：C:\Users\user\miniconda3\envs\GPU
+
+numpy
+pandas
+matplotlib
+requests
+psycopg2-binary
+subprocess
